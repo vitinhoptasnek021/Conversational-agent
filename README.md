@@ -1,2 +1,2 @@
 # Conversational-agent
-Hi.
+Simple conversational agent
