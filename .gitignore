@@ -1,0 +1,36 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de execução
+*.log
+*.tmp
+*.temp
+
+# Perfil e sessão do WhatsApp
+perfil_whatsapp/
+whatsapp_profile/
+chrome_profile/
+
+# Configurações locais
+.env
+.env.*
+*.local
+
+# Configurações do VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de teste ou saída
+output/
+outputs/
+resultados/
